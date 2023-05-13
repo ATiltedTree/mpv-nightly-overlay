@@ -37,5 +37,9 @@
           ];
         });
       });
+
+      overlays.default = final: prev: {
+        mpv-unwrapped = self.packages.${prev.system}.mpv-unwrapped;
+      };
     };
 }
