@@ -19,11 +19,11 @@
     "mpv-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1685024733,
-        "narHash": "sha256-VdUDx3Fem1SPEV8ofQ6yazcUAYgSs1ExocHYkLcv8KE=",
+        "lastModified": 1685192099,
+        "narHash": "sha256-5UZsYk2U3KgiivDH3kVy8BSjRH+E33LRJSU1pTh1Ado=",
         "owner": "mpv-player",
         "repo": "mpv",
-        "rev": "9fd4ae9529f749010cfd26e58ad2a7141f63b609",
+        "rev": "959ef843d2752e802874b265b21ee6542388a019",
         "type": "github"
       },
       "original": {
