@@ -3,11 +3,11 @@
     "libplacebo-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1685380862,
-        "narHash": "sha256-XVzKikWAPjifMr33ocPjh16PalbaCjcqsAHze0cN9U0=",
+        "lastModified": 1685438763,
+        "narHash": "sha256-U6lSNUzne5gSe2L7Dtzx+4zooZrJg/cX4TwwQyYZFzs=",
         "owner": "haasn",
         "repo": "libplacebo",
-        "rev": "0b32f56f4969c071159b70b22e3332e9446e90f4",
+        "rev": "c79f26c13c0f14da7d49ea34e99d5a5479689d85",
         "type": "github"
       },
       "original": {
@@ -19,56 +19,23 @@
     "mpv-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1685396802,
-        "narHash": "sha256-C5LAD8p31y46JSwsEaPE5PO1bIa7PXXWP+Qcrtq+sc8=",
+        "lastModified": 1685436861,
+        "narHash": "sha256-71VsrwzTVnhi0QhyqPEkYO4VejE8Xbw5S2Kxci6vAQA=",
         "owner": "mpv-player",
         "repo": "mpv",
-        "rev": "bc28dce303a4abcc8ec2f1fd941bc1bfd02e6f79",
+        "rev": "f79458476b88e02c79ed6777941bb3a53f1e130a",
         "type": "github"
       },
       "original": {
         "owner": "mpv-player",
         "repo": "mpv",
-        "type": "github"
-      }
-    },
-    "nixpkgs": {
-      "locked": {
-        "lastModified": 1685347552,
-        "narHash": "sha256-9woSppRyUFo26yUffORTzttJ+apOt8MmCv6RxpPNTU4=",
-        "owner": "nixos",
-        "repo": "nixpkgs",
-        "rev": "f2f1ec390714d303cf84ba086e34e45b450dd8c4",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nixos",
-        "ref": "nixpkgs-unstable",
-        "repo": "nixpkgs",
         "type": "github"
       }
     },
     "root": {
       "inputs": {
         "libplacebo-src": "libplacebo-src",
-        "mpv-src": "mpv-src",
-        "nixpkgs": "nixpkgs",
-        "systems": "systems"
-      }
-    },
-    "systems": {
-      "locked": {
-        "lastModified": 1681028828,
-        "narHash": "sha256-Vy1rq5AaRuLzOxct8nz4T6wlgyUR7zLU309k9mBC768=",
-        "owner": "nix-systems",
-        "repo": "default",
-        "rev": "da67096a3b9bf56a91d16901293e51ba5b49a27e",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nix-systems",
-        "repo": "default",
-        "type": "github"
+        "mpv-src": "mpv-src"
       }
     }
   },
