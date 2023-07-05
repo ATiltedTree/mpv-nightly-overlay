@@ -3,11 +3,11 @@
     "libplacebo-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1688390021,
-        "narHash": "sha256-V8u/dAOe9b2fynUsgU4Nxf/waSKKH1h25FMhArX9Zbw=",
+        "lastModified": 1688486418,
+        "narHash": "sha256-ZPiqPCEhWKB0FPKkvJw0MfOXHtRD9lP6P1E3N/+6EQ4=",
         "owner": "haasn",
         "repo": "libplacebo",
-        "rev": "e7e9d5bf8b19bcedd6ac095dfa0fec6ed5c8ed98",
+        "rev": "187bbbe9f8384d530b2cff17dda3793d4f9f5bc7",
         "type": "github"
       },
       "original": {
@@ -19,11 +19,11 @@
     "mpv-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1688352118,
-        "narHash": "sha256-/ZqG/JcMfLoa1S+x5zF5xu6waxKqtENLdk5s0cmAIT4=",
+        "lastModified": 1688508883,
+        "narHash": "sha256-ueGt7xRrGYjHfIQcq/NrDw3LWaRf+BL6Q4mdQgAkhu0=",
         "owner": "mpv-player",
         "repo": "mpv",
-        "rev": "3ba446d0b065f867ca262a2e05e4e8d24c7c0783",
+        "rev": "48e0ee9979c2928edef813e64592217420dbd4a0",
         "type": "github"
       },
       "original": {
