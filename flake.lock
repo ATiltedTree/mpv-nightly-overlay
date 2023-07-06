@@ -3,11 +3,11 @@
     "libplacebo-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1688486418,
-        "narHash": "sha256-ZPiqPCEhWKB0FPKkvJw0MfOXHtRD9lP6P1E3N/+6EQ4=",
+        "lastModified": 1688565206,
+        "narHash": "sha256-HFvM/0M32/GQQut7Ec+OuLuoaiNme3f0rjUrW95q8/8=",
         "owner": "haasn",
         "repo": "libplacebo",
-        "rev": "187bbbe9f8384d530b2cff17dda3793d4f9f5bc7",
+        "rev": "6bdb786e24dbd8978380caa0f8945cf64183b4af",
         "type": "github"
       },
       "original": {
